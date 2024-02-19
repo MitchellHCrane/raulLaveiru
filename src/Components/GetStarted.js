@@ -43,6 +43,13 @@ function GetStarted() {
           btnText="Upload Documents"
         /> */}
         <GetStartedItem
+          title="Schedule Strategy Appointment"
+          description="Click to schedule a strategy appointment."
+          url="https://calendly.com/raul-mortgage/30min"
+          iconName="strategyBoard"
+          btnText="Schedule"
+        />
+        <GetStartedItem
           title="Leave a Review"
           description="Thank you for choosing First Class Home Mortgage. It’s my priority to continue providing quality service to my customers. Tell me about your experience."
           url="https://g.page/r/CStPPIWpW1rHEAg/review"
