@@ -18,7 +18,7 @@ function Profile() {
         <div className="columnPic">
           <img
             className="troyProfilePic"
-            src="../images/steveJones.jpg"
+            src="../images/RaulHeadshot.jpeg"
             alt="Raul Laveiru Loan Officer"
           />
         </div>
