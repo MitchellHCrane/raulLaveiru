@@ -19,12 +19,12 @@ function Profile() {
           <img
             className="troyProfilePic"
             src="../images/RaulHeadshot.jpeg"
-            alt="Raul Laveiru Loan Officer"
+            alt="Raul Saez Laveiru Mortgage Broker"
           />
         </div>
         <div>
-          <h1 className="profileName">Raul Laveiru</h1>
-          <h2 className="NMLS">Loan Officer (NMLS #2223020)</h2>
+          <h1 className="profileName">Raul Saez Laveiru</h1>
+          <h2 className="NMLS">Mortgage Broker (NMLS #2223020)</h2>
           <p className="profileP">
             Hello! I&apos;m Raul, I look forward to helping you along your home
             buying experience. I&apos;ve provided a few useful links to get you

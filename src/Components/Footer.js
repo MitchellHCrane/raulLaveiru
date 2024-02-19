@@ -20,7 +20,7 @@ function Footer() {
         </div>
         <div className="footerGridItem">
           <h3 className="footerH3">License Info</h3>
-          <p className="footerP">Raul Laveiru (NMLS #2223020)</p>
+          <p className="footerP">Raul Saez Laveiru (NMLS #2223020)</p>
           <p className="footerP">
             Regulated by State of Utah Division of Real Estate NMLS #1843
           </p>
